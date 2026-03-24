@@ -1,5 +1,5 @@
 # MRI-Data-Grapher
-A simple script to graph snd analyze the Flow rate data obtained from an MRI from a patients left Ventricle.
+A simple script to graph and analyze the Flow rate data obtained from an MRI from a patients left Ventricle.
 
 ## Language
 - Matlab
